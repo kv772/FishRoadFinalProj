@@ -4,4 +4,4 @@ Functionalities
 - ability to score points
 - dodging moving obstacles
 
-followed a tutorial to build some of the game, added original functionality by adjusting movment to be more quicker, added own avatars/obstacles, and changed the code for the avatars/obstacles respectively.
+Followed a tutorial to build some of the game, added original functionality by adjusting movment to be more quicker, added own avatars/obstacles, and changed the code for the avatars/obstacles respectively. Created own restart and start screen as well as the code that integrates the functionality.
