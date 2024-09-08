@@ -3,5 +3,5 @@ Functionalities
 - ability to restart the game
 - ability to score points
 - dodging moving obstacles
+- created art for the avatars/obstacles and coded movement/collision interactions
 
-Followed a tutorial to build some of the game, added original functionality by adjusting movment to be more quicker, added own avatars/obstacles, and changed the code for the avatars/obstacles respectively. Created own restart and start screen as well as the code that integrates the functionality.
